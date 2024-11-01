@@ -1,0 +1,21 @@
+# Jupyter environment
+jupyter
+notebook
+
+# Data manipulation and analysis
+numpy
+pandas
+
+# Graph Neural Networks and deep learning
+torch
+torch-geometric
+torch-sparse
+torch-scatter
+networkx
+
+# Visualization
+matplotlib
+seaborn
+
+# Scipy library (for scientific computing)
+scipy
